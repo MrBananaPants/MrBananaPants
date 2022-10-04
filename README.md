@@ -1,4 +1,4 @@
-## Hi there, I'm Joran
+## Hi there
 
 I'm an 18-year-old Computer Science student (first year)
 

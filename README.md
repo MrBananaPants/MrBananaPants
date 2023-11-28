@@ -1,9 +1,9 @@
-## Hi there
+## 👋 Hi there!
 
-I'm an 20-year-old Computer Science student
+ I'm Joran, a 20-year-old Computer Science student based in Belgium.
 
-- Right now I'm working on a lot of personal projects and projects for clients.
-- I've made my own macOS / Windows [fitness app](https://github.com/MrBananaPants/PyFit), completely written in Python
+🚀 Currently, I'm immersed in a variety of personal and client projects. 
+Notably, I've developed my own fitness app for macOS and Windows, crafted entirely in Python.
 
-### Connect with me:
-Here's my website: www.joranvancoillie.com
+### 🌐 Connect with me:
+🔗 Website: www.joranvancoillie.com

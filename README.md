@@ -1,8 +1,9 @@
 ## Hi there
 
-I'm an 19-year-old Computer Science student (first year)
+I'm an 20-year-old Computer Science student
 
-- Right now I'm working on an macOS app [CamAlert](https://github.com/MrBananaPants/CamAlert) that notifies the user if there's a new listings available on 2dehands (the eBay of Belgium)
+- Right now I'm working on a lot of personal projects and projects for clients.
+- I've made my own macOS / Windows [fitness app](https://github.com/MrBananaPants/PyFit), completely written in Python
 
 ### Connect with me:
 Here's my website: www.joranvancoillie.com
